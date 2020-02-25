@@ -1,3 +1,4 @@
+
 import java.util.Random;
 import java.util.Scanner;
 public class CAI3 {
@@ -78,4 +79,4 @@ public class CAI3 {
 	public static void main(String[] args) {
 		quiz();
 	}
-}   
+}
